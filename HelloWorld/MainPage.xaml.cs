@@ -102,5 +102,22 @@ namespace HelloWorld
         }
 
         #endregion
+
+        private void TextBlock_SelectionChanged(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (int.Parse(ageInput.Text) < 20)
+            {
+                ageOutput.Text = "Oh, dear, you're only " + ageInput.Text + ", you're really young.";
+            }
+            else
+            {
+                ageOutput.Text = "Really, " + ageInput.Text + "? How come you even know how to use a computer?";
+            }
+        }
     }
 }

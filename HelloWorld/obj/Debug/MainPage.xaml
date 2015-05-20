@@ -12,7 +12,7 @@
 
     <Page.Resources>
         <!-- TODO: Delete this line if the key AppName is declared in App.xaml -->
-        <x:String x:Key="AppName">Greeter 2000</x:String>
+        <x:String x:Key="AppName">Age Analyzer 2000</x:String>
     </Page.Resources>
 
     <!--
@@ -47,8 +47,8 @@
                         IsHitTestVisible="false" TextWrapping="NoWrap" VerticalAlignment="Bottom" Margin="0,0,30,40"/>
         </Grid>
         <TextBox HorizontalAlignment="Left" x:Name="ageInput" Margin="113,71,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="267"/>
-        <Button Content="Analyze my age" HorizontalAlignment="Left" Margin="110,129,0,0" Grid.Row="1" VerticalAlignment="Top"/>
-        <TextBlock x:ConnectionId='0' HorizontalAlignment="Left" Margin="113,33,0,0" Grid.Row="1" TextWrapping="Wrap" Text="How old are you?" VerticalAlignment="Top"                                              />
+        <Button x:ConnectionId='1' Content="Analyze my age" HorizontalAlignment="Left" Margin="110,129,0,0" Grid.Row="1" VerticalAlignment="Top"                     />
+        <TextBlock x:ConnectionId='2' HorizontalAlignment="Left" Margin="113,33,0,0" Grid.Row="1" TextWrapping="Wrap" Text="How old are you?" VerticalAlignment="Top"                                              />
         <TextBlock HorizontalAlignment="Left" x:Name="ageOutput" Margin="113,206,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Height="46" Width="267"/>
 
     </Grid>

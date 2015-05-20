@@ -23,7 +23,7 @@
   <ItemGroup>
     <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe">
       <PackagePath>HelloWorld.exe</PackagePath>
-      <Modified>2015-05-20T16:49:47.675</Modified>
+      <Modified>2015-05-20T17:18:42.034</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\Assets\Logo.scale-100.png">
       <PackagePath>Assets\Logo.scale-100.png</PackagePath>
@@ -55,7 +55,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2015-05-20T16:49:47.438</Modified>
+      <Modified>2015-05-20T17:18:41.822</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
