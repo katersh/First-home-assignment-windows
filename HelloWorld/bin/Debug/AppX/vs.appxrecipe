@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROGER-PC</Machine>
+    <WindowsUser>Roger</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>712850f9-fe05-401f-bde3-1f830e9950fc</PackageIdentityName>
+    <RegisteredManifestChecksum>F48AFDEB284CDBA66195DA2DB048577460EA15E4FBC2A8391E206AC3AF213953</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>712850f9-fe05-401f-bde3-1f830e9950fc_1.0.0.0_neutral__gw4zt26480tv8</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>712850f9-fe05-401f-bde3-1f830e9950fc_gw4zt26480tv8!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>712850f9-fe05-401f-bde3-1f830e9950fc</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Roger</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-05-20T16:49:48.228</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe">
+      <PackagePath>HelloWorld.exe</PackagePath>
+      <Modified>2015-05-20T16:49:47.675</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T04:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2015-05-20T16:49:26.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-05-20T16:49:47.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-05-20T16:49:47.438</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\roger\documents\visual studio 2013\Projects\HelloWorld\HelloWorld\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-05-20T16:49:48.077</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
